@@ -15,6 +15,6 @@ My research interests lie in multimodal machine learning, focusing on multimodal
 Before that, I completed my bachelor's in Software Engineering and Management and my master's in Computer Science at the [Technical University of Graz](https://www.tugraz.at/home). 
 My bachelor thesis focused on integrating a centerline algorithm into an Open Science Platform for Medical Image Processing called [Studierfenster](http://studierfenster.icg.tugraz.at) at the 
 [Institute of Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home). 
-I wrote my master's thesis on the topic "Spatial-Temporal Alignment of Multimodal Datasets," supervised by Matthias Boehm. 
+I wrote my master's thesis on the topic "Spatial-Temporal Alignment of Multimodal Datasets", supervised by Matthias Boehm. 
 
 Next to my undergraduate studies, I worked as a part-time software engineer at [Up2Go Austria GmbH](https://www.up2go.com).
