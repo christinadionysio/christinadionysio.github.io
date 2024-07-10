@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christina Dionysio"
 title_separator          : "-"
 name                     : &name "Christina Dionysio"
-description              : &description "Research Assistant @ TU Berlin & BIFOLD"
+description              : &description "Ph.D. Student @ TU Berlin & BIFOLD"
 url                      : https://christinadionysio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "christinadionysio/christinadionysio.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Christina Dionysio"
   avatar           : "headshot.jpeg"
-  bio              : "Research Assistant @<br>TU Berlin"
+  bio              : "Ph.D. Student @<br>TU Berlin & BIFOLD"
   location         : "Berlin"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
