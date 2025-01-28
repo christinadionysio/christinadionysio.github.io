@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the [Technische Universität Berlin](https://www.tu.berlin). 
+I am a second year Ph.D. student at the [Technische Universität Berlin](https://www.tu.berlin). 
 There, I am a member of the [DAMS Lab](https://www.tu.berlin/en/dams) headed by [Matthias Boehm](https://mboehm7.github.io).
 My research interests lie in multimodal machine learning, focusing on multimodal alignment. 
 
